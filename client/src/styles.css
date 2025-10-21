@@ -1,0 +1,5 @@
+body { font-family: Arial; margin:0; background:#111; color:#fff; }
+.container { padding:20px; max-width:900px; margin:0 auto; }
+.btn { background:#ffcc00; color:#000; padding:10px 14px; border-radius:8px; border:none; cursor:pointer; font-weight:700; }
+.input { padding:8px; border-radius:6px; border:none; margin-right:8px; }
+.player-btn { background:#09f; color:#fff; padding:12px 18px; border-radius:10px; border:none; font-size:18px; }
